@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=khuongsatou&count_private=true&show_icons=true&hide_title=true&hide=stars" />
+
+<div align="center">
+   <img src="https://github-profile-trophy.vercel.app/?username=khuongsatou&theme=flat&no-frame=true&margin-w=30" />
+</div>
+
 ![](https://hit.yhype.me/github/profile?user_id=44874881)
